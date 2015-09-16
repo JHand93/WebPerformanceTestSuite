@@ -1,0 +1,2895 @@
+Watcher event happened add { name: '.noide.log.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.noide.log.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened unlink { name: '.noide.log.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.noide.log.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-16-29-46',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-16-29-46',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-16-29-46/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-16-29-46',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [36m304 [0m834.705 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /css/ide.css [36m304 [0m53.955 ms - -[0m
+[0mGET /vendor/emmet.js [36m304 [0m43.678 ms - -[0m
+[0mGET /js/ide.js [36m304 [0m56.388 ms - -[0m
+[0mGET /vendor/ace/ace.js [36m304 [0m71.569 ms - -[0m
+[0mGET /vendor/ace/ext-language_tools.js [36m304 [0m77.831 ms - -[0m
+[0mGET /vendor/ace/ext-emmet.js [36m304 [0m73.863 ms - -[0m
+[0mGET /vendor/ace/mode-json.js [36m304 [0m44.024 ms - -[0m
+[0mGET /vendor/ace/theme-monokai.js [36m304 [0m58.801 ms - -[0m
+[0mGET /vendor/ace/worker-json.js [36m304 [0m36.258 ms - -[0m
+[0mGET /vendor/ace/snippets/text.js [36m304 [0m80.667 ms - -[0m
+[0mGET /vendor/ace/snippets/json.js [36m304 [0m58.152 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened unlink { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/mode-asciidoc.js [32m200 [0m62.922 ms - 8160[0m
+[0mGET /vendor/ace/snippets/asciidoc.js [32m200 [0m37.116 ms - 139[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [36m304 [0m372.525 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [32m200 [0m171.602 ms - 18850[0m
+[0mGET /css/ide.css [36m304 [0m53.590 ms - -[0m
+[0mGET /vendor/ace/ace.js [36m304 [0m27.650 ms - -[0m
+[0mGET /vendor/ace/ext-language_tools.js [36m304 [0m44.161 ms - -[0m
+[0mGET /vendor/ace/ext-emmet.js [36m304 [0m45.372 ms - -[0m
+[0mGET /js/ide.js [36m304 [0m44.008 ms - -[0m
+[0mGET /vendor/emmet.js [36m304 [0m31.102 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-16-59-51',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-16-59-51',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-16-59-51/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-16-59-51',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened addDir { name: '2015-08-11-17-00-21',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-17-00-21',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-17-00-21/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-17-00-21',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-01-17',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-17-01-17',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-02-08',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-17-02-08',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-17-02-08/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-17-02-08',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-02-59',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-17-02-59',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-17-02-59/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-17-02-59',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-03-49',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-17-03-49',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-17-03-49/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-17-03-49',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-04-40',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-17-04-40',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-17-04-40/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-17-04-40',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-05-26',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-17-05-26',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-17-05-26/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-17-05-26',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [36m304 [0m674.660 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [32m200 [0m164.461 ms - 18850[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /css/ide.css [36m304 [0m50.292 ms - -[0m
+[0mGET /js/ide.js [36m304 [0m67.015 ms - -[0m
+[0mGET /vendor/emmet.js [36m304 [0m68.168 ms - -[0m
+[0mGET /vendor/ace/ace.js [36m304 [0m82.705 ms - -[0m
+[0mGET /vendor/ace/ext-language_tools.js [36m304 [0m126.108 ms - -[0m
+[0mGET /vendor/ace/ext-emmet.js [36m304 [0m127.498 ms - -[0m
+Watcher event happened add { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/mode-javascript.js [32m200 [0m38.663 ms - 21285[0m
+[0mGET /vendor/ace/theme-monokai.js [36m304 [0m13.220 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/snippets/text.js [36m304 [0m45.098 ms - -[0m
+[0mGET /vendor/ace/snippets/javascript.js [32m200 [0m98.836 ms - 3642[0m
+[0mGET /vendor/ace/worker-javascript.js [32m200 [0m44.096 ms - 140675[0m
+[0mGET /vendor/ace/mode-json.js [36m304 [0m2.384 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/worker-json.js [36m304 [0m1.372 ms - -[0m
+[0mGET /vendor/ace/snippets/json.js [36m304 [0m2.206 ms - -[0m
+Watcher event happened change { name: 'config.json',
+  path: '/home/john.handley/webpagetest-charts-api/config.json',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened unlink { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened unlink { name: '.log.txt.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.log.txt.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/mode-asciidoc.js [36m304 [0m6.640 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/snippets/asciidoc.js [36m304 [0m4.607 ms - -[0m
+Watcher event happened addDir { name: '2015-08-11-17-55-22',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-17-55-22',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-17-55-22/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-17-55-22',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-56-08',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-17-56-08',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-17-56-08/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-17-56-08',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-56-49',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-17-56-49',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-17-56-49/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-17-56-49',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-57-38',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-17-57-38',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-17-57-38/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-17-57-38',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-58-34',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-17-58-34',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-17-58-34/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-17-58-34',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-17-59-19',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-17-59-19',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-17-59-19/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-17-59-19',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-00-10',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-18-00-10',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-18-00-10/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-18-00-10',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-01-01',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-18-01-01',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-18-01-01/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-18-01-01',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened addDir { name: '2015-08-11-18-01-46',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-18-01-46',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-18-01-46/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-18-01-46',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-02-32',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-18-02-32',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-18-02-32/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-18-02-32',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-25-42',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-18-25-42',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-18-25-42/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-18-25-42',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-55-22',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-18-55-22',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-18-55-22/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-18-55-22',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-56-07',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-18-56-07',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-18-56-07/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-18-56-07',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-56-58',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-18-56-58',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-18-56-58/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-18-56-58',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-57-53',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-18-57-53',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-18-57-53/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-18-57-53',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-58-39',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-18-58-39',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-18-58-39/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-18-58-39',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-18-59-24',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-18-59-24',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-18-59-24/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-18-59-24',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-00-15',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-19-00-15',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-19-00-15/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-19-00-15',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-01-06',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-19-01-06',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-19-01-06/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-19-01-06',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-01-51',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-19-01-51',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-19-01-51/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-19-01-51',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-02-37',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-19-02-37',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-19-02-37/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-19-02-37',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-25-42',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-19-25-42',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-19-25-42/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-19-25-42',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-55-32',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-19-55-32',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-19-55-32/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-19-55-32',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-56-18',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-19-56-18',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-19-56-18/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-19-56-18',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-57-08',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-19-57-08',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-19-57-08/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-19-57-08',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-57-59',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-19-57-59',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-19-57-59/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-19-57-59',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-58-44',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-19-58-44',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-19-58-44/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-19-58-44',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-19-59-29',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-19-59-29',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-19-59-29/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-19-59-29',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-00-20',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-20-00-20',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-20-00-20/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-20-00-20',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-01-15',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-20-01-15',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-20-01-15/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-20-01-15',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-02-06',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-20-02-06',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-20-02-06/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-20-02-06',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-02-47',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-20-02-47',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-20-02-47/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-20-02-47',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-25-37',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-20-25-37',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-20-25-37/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-20-25-37',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-55-27',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-20-55-27',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-20-55-27/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-20-55-27',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-56-13',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-20-56-13',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-20-56-13/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-20-56-13',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-57-03',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-20-57-03',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-20-57-03/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-20-57-03',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-57-54',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-20-57-54',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-20-57-54/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-20-57-54',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-58-39',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-20-58-39',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-20-58-39/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-20-58-39',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-20-59-25',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-20-59-25',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-20-59-25/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-20-59-25',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-00-09',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-21-00-09',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-21-00-09/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-21-00-09',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-01-01',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-21-01-01',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-21-01-01/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-21-01-01',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-01-51',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-21-01-51',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-21-01-51/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-21-01-51',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-02-32',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-21-02-32',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-21-02-32/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-21-02-32',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-25-37',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-21-25-37',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-21-25-37/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-21-25-37',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-55-22',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-21-55-22',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-21-55-22/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-21-55-22',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-56-08',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-21-56-08',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-21-56-08/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-21-56-08',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-56-58',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-21-56-58',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-21-56-58/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-21-56-58',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-57-53',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-21-57-53',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-21-57-53/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-21-57-53',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-58-39',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-21-58-39',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-21-58-39/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-21-58-39',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-21-59-30',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-21-59-30',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-21-59-30/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-21-59-30',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-00-16',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-22-00-16',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-22-00-16/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-22-00-16',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-01-01',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-22-01-01',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-22-01-01/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-22-01-01',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-01-51',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-22-01-51',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-22-01-51/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-22-01-51',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-02-31',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-22-02-31',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-22-02-31/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-22-02-31',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-25-32',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-22-25-32',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-22-25-32/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-22-25-32',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-55-22',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-22-55-22',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-22-55-22/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-22-55-22',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-56-08',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-22-56-08',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-22-56-08/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-22-56-08',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-56-58',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-22-56-58',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-22-56-58/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-22-56-58',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-57-49',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-22-57-49',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-22-57-49/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-22-57-49',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-58-39',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-22-58-39',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-22-58-39/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-22-58-39',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-22-59-25',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-22-59-25',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-22-59-25/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-22-59-25',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-00-15',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-23-00-15',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-23-00-15/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-11-23-00-15',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-01-01',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-23-01-01',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-23-01-01/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-11-23-01-01',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-01-47',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-23-01-47',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-23-01-47/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-11-23-01-47',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-02-27',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-23-02-27',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-23-02-27/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-23-02-27',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-25-43',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-23-25-43',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-23-25-43/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-11-23-25-43',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-55-22',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-23-55-22',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-23-55-22/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-11-23-55-22',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-56-08',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-23-56-08',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-23-56-08/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-11-23-56-08',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-56-58',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-23-56-58',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-23-56-58/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-11-23-56-58',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-57-49',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-23-57-49',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-23-57-49/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-11-23-57-49',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-58-44',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-23-58-44',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-23-58-44/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-11-23-58-44',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-11-23-59-35',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-23-59-35',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-23-59-35/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-11-23-59-35',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-00-15',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-00-00-15',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-00-00-15/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-00-00-15',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-01-01',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-00-01-01',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-00-01-01/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-00-01-01',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-01-51',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-00-01-51',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-00-01-51/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-00-01-51',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-02-32',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-00-02-32',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-00-02-32/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-00-02-32',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-25-38',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-00-25-38',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-00-25-38/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-00-25-38',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-55-22',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-00-55-22',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-00-55-22/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-00-55-22',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-56-14',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-00-56-14',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-00-56-14/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-00-56-14',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-57-09',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-00-57-09',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-00-57-09/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-00-57-09',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-58-04',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-00-58-04',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-00-58-04/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-00-58-04',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-58-55',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-00-58-55',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-00-58-55/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-00-58-55',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-00-59-40',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-00-59-40',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-00-59-40/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-00-59-40',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-00-31',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-01-00-31',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-01-00-31/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-01-00-31',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-01-17',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-01-01-17',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-01-01-17/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-01-01-17',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-02-07',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-01-02-07',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-01-02-07/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-01-02-07',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-02-53',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-01-02-53',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-01-02-53/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-01-02-53',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-25-43',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-01-25-43',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-01-25-43/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-01-25-43',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-55-23',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-01-55-23',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-01-55-23/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-01-55-23',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-56-16',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-01-56-16',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-01-56-16/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-01-56-16',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-57-12',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-01-57-12',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-01-57-12/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-01-57-12',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-58-23',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-01-58-23',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-01-58-23/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-01-58-23',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-01-59-11',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-01-59-11',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-01-59-11/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-01-59-11',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-00-07',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-02-00-07',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-02-00-07/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-02-00-07',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-00-58',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-02-00-58',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-02-00-58/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-02-00-58',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-01-49',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-02-01-49',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-02-01-49/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-02-01-49',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-02-45',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-02-02-45',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-02-02-45/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_completed_test/2015-08-12-02-02-45',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-03-30',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-02-03-30',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-02-03-30/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-02-03-30',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-25-38',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-02-25-38',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-02-25-38/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/gps_test_suite/login_test/2015-08-12-02-25-38',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-55-28',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-02-55-28',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-02-55-28/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/login_page_test/2015-08-12-02-55-28',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-56-13',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-02-56-13',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-02-56-13/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/dash_test/2015-08-12-02-56-13',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-56-58',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-02-56-58',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-02-56-58/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/meeting_history_test/2015-08-12-02-56-58',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-57-54',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-02-57-54',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-02-57-54/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/inspection_history_test/2015-08-12-02-57-54',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-58-45',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-02-58-45',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-02-58-45/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/observations_history_test/2015-08-12-02-58-45',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-02-59-30',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-02-59-30',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-02-59-30/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/nearmiss_history_test/2015-08-12-02-59-30',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-03-00-21',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-03-00-21',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-03-00-21/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_inbox_test/2015-08-12-03-00-21',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened addDir { name: '2015-08-12-03-01-06',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-03-01-06',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test',
+  isDirectory: true,
+  ext: '' }
+Watcher event happened add { name: 'results.json',
+  path: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-03-01-06/results.json',
+  dir: '/home/john.handley/webpagetest-charts-api/public/results/safety_test_suite/incident_create_test/2015-08-12-03-01-06',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [36m304 [0m828.840 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET / [32m200 [0m178.772 ms - 18850[0m
+[0mGET /css/ide.css [36m304 [0m65.301 ms - -[0m
+[0mGET /vendor/emmet.js [36m304 [0m26.549 ms - -[0m
+[0mGET /js/ide.js [36m304 [0m35.654 ms - -[0m
+[0mGET /vendor/ace/ace.js [36m304 [0m57.053 ms - -[0m
+[0mGET /vendor/ace/ext-language_tools.js [36m304 [0m101.879 ms - -[0m
+[0mGET /vendor/ace/ext-emmet.js [36m304 [0m102.706 ms - -[0m
+[0mGET /vendor/ace/mode-json.js [36m304 [0m8.437 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /vendor/ace/theme-monokai.js [36m304 [0m29.601 ms - -[0m
+[0mGET /vendor/ace/worker-json.js [36m304 [0m43.458 ms - -[0m
+[0mGET /vendor/ace/snippets/text.js [36m304 [0m46.786 ms - -[0m
+[0mGET /vendor/ace/snippets/json.js [36m304 [0m46.565 ms - -[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'config.json',
+  path: '/home/john.handley/webpagetest-charts-api/config.json',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.json' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: 'run.sh',
+  path: '/home/john.handley/webpagetest-charts-api/run.sh',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.sh' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'run.sh',
+  path: '/home/john.handley/webpagetest-charts-api/run.sh',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.sh' }
+Watcher event happened add { name: 'run.sh~',
+  path: '/home/john.handley/webpagetest-charts-api/run.sh~',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.sh~' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened unlink { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened unlink { name: 'run.sh~',
+  path: '/home/john.handley/webpagetest-charts-api/run.sh~',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.sh~' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'log.txt',
+  path: '/home/john.handley/webpagetest-charts-api/log.txt',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.txt' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened add { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened change { name: 'run.sh',
+  path: '/home/john.handley/webpagetest-charts-api/run.sh',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.sh' }
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+Watcher event happened unlink { name: '.run.sh.swp',
+  path: '/home/john.handley/webpagetest-charts-api/.run.sh.swp',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.swp' }
+[0mGET / [32m200 [0m315.727 ms - 18850[0m
+Watcher event happened change { name: 'noide.log',
+  path: '/home/john.handley/webpagetest-charts-api/noide.log',
+  dir: '/home/john.handley/webpagetest-charts-api',
+  isDirectory: false,
+  ext: '.log' }
+[0mGET /nice%20ports%2C/Tri%6Eity.txt%2ebak [33m404 [0m80.066 ms - 17[0m

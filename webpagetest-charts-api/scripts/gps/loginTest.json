@@ -1,0 +1,20 @@
+[
+    {
+        "navigate": "https://mobile.hcssgps.com/"
+    },
+    {
+        "setValue": [
+            "name=UserName",
+            "john.handley@hcssgps.com"
+        ]
+    },
+    {
+        "setValue": [
+            "name=Password",
+            "hcss1234"
+        ]
+    },
+    {
+        "execAndWait": "document.getElementById('loginButton').click()"
+    }
+]

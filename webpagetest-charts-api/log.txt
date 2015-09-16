@@ -1,0 +1,6 @@
+12 Aug 10:30:02 - [33m[nodemon] v1.4.0[39m
+12 Aug 10:30:02 - [33m[nodemon] to restart at any time, enter `rs`[39m
+12 Aug 10:30:02 - [33m[nodemon] watching: *.*[39m
+12 Aug 10:30:02 - [32m[nodemon] starting `node bin/www`[39m
+[0mGET /run_tests/gps_test_suite [32m200 [0m56.213 ms - 51[0m
+[0mGET /run_tests/safety_test_suite [32m200 [0m27.835 ms - 54[0m

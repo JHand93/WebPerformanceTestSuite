@@ -1,0 +1,1582 @@
+[90mGET / [32m200 [90m86ms - 2.72kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m11ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m184ms - 440b[0m
+[90mGET /suite/hcss_gps [32m200 [90m447ms - 30.91kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m24ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /suite/hcss_gps [36m304 [90m82ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m3ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m3ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-28-15-43-04? [32m200 [90m337ms - 24.15kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m29ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /suite/hcss_gps [32m200 [90m331ms - 31.03kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m4ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-28-15-43-04? [32m200 [90m204ms - 24.35kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m12ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m14ms[0m
+[90mGET / [32m200 [90m74ms - 2.72kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /suite/hcss_gps [32m200 [90m348ms - 33kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m4ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m3ms[0m
+[90mGET /suite/hcss_gps?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m270ms - 9.21kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m16ms[0m
+[90mGET / [36m304 [90m36ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET / [32m200 [90m21ms - 2.72kb[0m
+[90mGET /suite/hcss_gps [32m200 [90m394ms - 33.12kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m15ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m17ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m18ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m25ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m40ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m40ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-29-01-42-06? [32m200 [90m201ms - 24.4kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET / [32m200 [90m56ms - 2.72kb[0m
+[90mGET / [36m304 [90m29ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /suite/hcss_safety [32m200 [90m280ms - 32.83kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET / [32m200 [90m53ms - 2.72kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m26ms - 440b[0m
+[90mGET /stylesheets/txl.css [32m200 [90m204ms - 227.43kb[0m
+[90mGET / [32m200 [90m32ms - 2.72kb[0m
+[90mGET /stylesheets/txl.css [32m200 [90m155ms - 227.43kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m5ms - 440b[0m
+[90mGET / [36m304 [90m35ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /suite/hcss_gps [32m200 [90m448ms - 33.61kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m56ms[0m
+[90mGET /javascripts/jquery.min.js [32m200 [90m111ms - 82.27kb[0m
+[90mGET /javascripts/regression.js [32m200 [90m124ms - 3.01kb[0m
+[90mGET /javascripts/jquery.flot.time.js [32m200 [90m127ms - 13.07kb[0m
+[90mGET /javascripts/jquery.flot.js [32m200 [90m198ms - 120.09kb[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-28-23-42-01? [32m200 [90m228ms - 24.99kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/hcss_gps?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m242ms - 9.83kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m30ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m35ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m38ms[0m
+[90mGET /suite/hcss_gps?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=3 [32m200 [90m272ms - 10.38kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m12ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m29ms[0m
+[90mGET /suite/hcss_safety?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=3 [32m200 [90m229ms - 9.7kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET / [32m200 [90m14ms - 2.72kb[0m
+[90mGET /stylesheets/txl.css [32m200 [90m134ms - 227.43kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m3ms - 440b[0m
+[90mGET /suite/hcss_gps [32m200 [90m41ms - 33.61kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m64ms[0m
+[90mGET /javascripts/jquery.flot.time.js [32m200 [90m61ms - 13.07kb[0m
+[90mGET /javascripts/regression.js [32m200 [90m62ms - 3.01kb[0m
+[90mGET /javascripts/jquery.min.js [32m200 [90m153ms - 82.27kb[0m
+[90mGET /javascripts/jquery.flot.js [32m200 [90m152ms - 120.09kb[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-20-03-44-29? [32m200 [90m53ms - 26.21kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-29-12-43-38?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=3 [32m200 [90m173ms - 12.68kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m16ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m22ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m33ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m34ms[0m
+[90mGET /suite/hcss_gps?chartType=visualComplete&dataRange=0%2C8000&dateCutoff=30 [32m200 [90m503ms - 33.55kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m19ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m29ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m36ms[0m
+[90mGET /suite/hcss_gps?chartType=visualComplete&dataRange=0%2C8000&dateCutoff=30 [36m304 [90m38ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /suite/hcss_gps [32m200 [90m38ms - 33.61kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [32m200 [90m45ms - 3.01kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m61ms[0m
+[90mGET /javascripts/jquery.flot.time.js [32m200 [90m59ms - 13.07kb[0m
+[90mGET /javascripts/jquery.min.js [32m200 [90m156ms - 82.27kb[0m
+[90mGET /javascripts/jquery.flot.js [32m200 [90m155ms - 120.09kb[0m
+[90mGET /suite/hcss_safety?chartType=visualComplete&dataRange=0%2C8000&dateCutoff=30 [32m200 [90m258ms - 33.98kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m24ms[0m
+[90mGET /suite/hcss_safety/safety_staging_login/2015-07-19-19-41-08?chartType=visualComplete&dataRange=0%2C8000&dateCutoff=30 [32m200 [90m163ms - 23.16kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET /suite/hcss_gps/gps_silverlight_homepage/2015-07-20-08-40-54? [32m200 [90m138ms - 25.18kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m4ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/hcss_gps/gps_silverlight_homepage/2015-07-21-22-41-50? [32m200 [90m57ms - 24.85kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m14ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m14ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m34ms[0m
+[90mGET /suite/hcss_gps [36m304 [90m86ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/hcss_gps/gps_silverlight_homepage/2015-07-17-17-40-47? [32m200 [90m55ms - 24.52kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /suite/hcss_gps [36m304 [90m31ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m30ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m1ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m1ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-28-15-43-04? [32m200 [90m35ms - 25.63kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m3ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-28-15-43-04? [32m200 [90m28ms - 25.63kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-29-12-43-38?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=3 [32m200 [90m210ms - 12.78kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /suite/hcss_safety/ [32m200 [90m454ms - 33.2kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m49ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m28ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-27-16-53-35? [32m200 [90m216ms - 22.54kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-15-39-56? [32m200 [90m57ms - 23.51kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-15-43-31? [32m200 [90m87ms - 22.85kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-17-43-25? [32m200 [90m45ms - 22.19kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m24ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m26ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-18-43-15? [32m200 [90m37ms - 22.19kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-19-43-20? [32m200 [90m80ms - 22.19kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m32ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-20-44-06? [32m200 [90m44ms - 52.03kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [32m200 [90m39ms - 40.15kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m3ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [31m500 [90m64ms - 1.17kb[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [31m500 [90m48ms - 1.17kb[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [32m200 [90m51ms - 40.16kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /thumbnail.php?test=150729_T6_C&run=1&file=1_waterfall.png [33m404 [90m8ms - 1.11kb[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [32m200 [90m61ms - 40.17kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [32m200 [90m66ms - 40.2kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m30ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [36m304 [90m25ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-20-44-06? [32m200 [90m36ms - 52.08kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-20-44-06? [32m200 [90m54ms - 52.07kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-21-43-41? [32m200 [90m52ms - 40.19kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-22-43-42? [32m200 [90m47ms - 39.59kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-28-23-43-41? [32m200 [90m48ms - 36.22kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m3ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-29-00-43-41? [32m200 [90m45ms - 37.22kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-29-01-44-01? [32m200 [90m48ms - 43.58kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-29-02-43-41? [32m200 [90m48ms - 36.28kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /suite/hcss_safety/safety_test_login/2015-07-29-03-43-47? [32m200 [90m49ms - 40.28kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /suite/hcss_safety/ [36m304 [90m31ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /suite/hcss_gps? [32m200 [90m357ms - 33.98kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m4ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/hcss_gps?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m301ms - 9.83kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-29-13-42-03?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m163ms - 14.23kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m3ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-29-13-42-03?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m52ms - 14.24kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /suite/hcss_gps/ [32m200 [90m61ms - 33.98kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m4ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-24-07-41-30? [32m200 [90m274ms - 24.69kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m4ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m28ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-27-16-52-15? [32m200 [90m51ms - 25.89kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m34ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-19-14-40-52? [32m200 [90m53ms - 25.38kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m30ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-27-16-52-15? [36m304 [90m105ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m69ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m12ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m38ms[0m
+[90mGET /suite/hcss_gps/?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=10 [32m200 [90m424ms - 25.08kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /suite/hcss_gps/?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=5 [32m200 [90m328ms - 10.87kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-29-14-42-13?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=5 [32m200 [90m241ms - 18.98kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m35ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-29-15-42-08? [32m200 [90m67ms - 28.24kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m37ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /suite/hcss_gps/gps_mobile_homepage/2015-07-29-01-42-06? [32m200 [90m40ms - 24.86kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /suite/hcss_gps/ [36m304 [90m83ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/hcss_gps/?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m51ms - 9.83kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /suite/hcss_gps/?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m483ms - 9.95kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m15ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m31ms[0m
+[90mGET /suite/hcss_gps?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=1 [32m200 [90m49ms - 9.95kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/hcss_gps?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=30 [32m200 [90m414ms - 36.23kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/hcss_safety?chartType=SpeedIndex&dataRange=0%2C8000&dateCutoff=30 [32m200 [90m280ms - 35.47kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET / [32m200 [90m51ms - 2.72kb[0m
+[90mGET / [32m200 [90m23ms - 2.72kb[0m
+[90mGET / [32m200 [90m95ms - 1.87kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m213ms - 440b[0m
+[90mGET / [36m304 [90m77ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m194ms - 440b[0m
+[90mGET /suite/gps_test_suite [32m200 [90m59ms - 6.12kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m25ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m17ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m16ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m31ms[0m
+[90mGET /suite/gps_test_suite?chartType=SpeedIndex&dataRange=0%2C3000&dateCutoff=1 [32m200 [90m48ms - 6.22kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite?chartType=SpeedIndex&dataRange=0%2C3000&dateCutoff=1 [36m304 [90m29ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite?chartType=SpeedIndex&dataRange=0%2C3000&dateCutoff=1 [36m304 [90m70ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite? [32m200 [90m51ms - 6.12kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m20ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m28ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m30ms[0m
+[90mGET / [32m200 [90m30ms - 1.87kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m63ms - 6.12kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m12ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m30ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m59ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m34ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m39ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m60ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m12ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m57ms - 6.24kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m28ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-10-40? [32m200 [90m100ms - 15.61kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m20ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/gps_test_suite/ [32m200 [90m35ms - 6.24kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m20ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m20ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m26ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m30ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C10000&dateCutoff=30 [32m200 [90m40ms - 6.35kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m14ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C10000&dateCutoff=30 [32m200 [90m81ms - 6.47kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m12ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m20ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m34ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-21-12?chartType=SpeedIndex&dataRange=0%2C10000&dateCutoff=30 [32m200 [90m93ms - 16.38kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m29ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /suite/gps_test_suite/ [32m200 [90m36ms - 6.37kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m72ms - 6.54kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m27ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-31-12?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m74ms - 18.43kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m87ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/gps_test_suite/?chartType=loadTime&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m47ms - 6.19kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m45ms - 6.2kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/gps_test_suite/?chartType=TTFB&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m65ms - 6.17kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m16ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m16ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET /suite/gps_test_suite/?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m38ms - 6.19kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/gps_test_suite/?chartType=loadTime&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m72ms - 6.18kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m20ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite/?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=30 [36m304 [90m42ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET /suite/gps_test_suite/?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [36m304 [90m34ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite/?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [36m304 [90m35ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET / [36m304 [90m46ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /getSuite [33m404 [90m13ms - 1.11kb[0m
+[90mGET /getConfig [33m404 [90m7ms - 1.11kb[0m
+[90mGET / [36m304 [90m33ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m10ms[0m
+[90mGET /suite/gps_test_suite?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m43ms - 6.2kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m3ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET / [36m304 [90m32ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m10ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m39ms - 6.37kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m32ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m35ms[0m
+[90mGET /suite/gps_test_suite?chartType=fullyLoaded&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m46ms - 6.38kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [36m304 [90m30ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-31-12?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m85ms - 18.83kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m14ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET / [36m304 [90m39ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m47ms - 7kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m24ms[0m
+[90mGET / [32m200 [90m28ms - 1.87kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m23ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET / [36m304 [90m16ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m12ms[0m
+[90mGET / [36m304 [90m18ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET / [32m200 [90m15ms - 1.87kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m48ms - 440b[0m
+[90mGET /stylesheets/txl.css [32m200 [90m181ms - 227.43kb[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m10ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m51ms - 7kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m68ms[0m
+[90mGET /javascripts/jquery.flot.time.js [32m200 [90m63ms - 13.07kb[0m
+[90mGET /javascripts/regression.js [32m200 [90m63ms - 3.01kb[0m
+[90mGET /javascripts/jquery.min.js [32m200 [90m210ms - 82.27kb[0m
+[90mGET /javascripts/jquery.flot.js [32m200 [90m210ms - 120.09kb[0m
+[90mGET /stylesheets/txl.css [32m200 [90m308ms - 227.43kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /suite/gps_test_suite? [32m200 [90m39ms - 7kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m29ms[0m
+[90mGET /stylesheets/txl.css [32m200 [90m170ms - 227.43kb[0m
+[90mGET /suite/gps_test_suite?chartType=visualComplete&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m65ms - 6.96kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m19ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /suite/gps_test_suite? [36m304 [90m27ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m39ms[0m
+[90mGET /stylesheets/txl.css [32m200 [90m156ms - 227.44kb[0m
+[90mGET /suite/gps_test_suite? [36m304 [90m33ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m24ms[0m
+[90mGET /stylesheets/txl.css [32m200 [90m184ms - 227.43kb[0m
+[90mGET /suite/gps_test_suite?chartType=loadTime&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m106ms - 6.92kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /suite/gps_test_suite?chartType=loadTime&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m37ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m41ms[0m
+[90mGET /stylesheets/txl.css [32m200 [90m166ms - 227.43kb[0m
+[90mGET /suite/gps_test_suite?chartType=loadTime&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m24ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite?chartType=loadTime&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m36ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m38ms[0m
+[90mGET /stylesheets/txl.css [32m200 [90m149ms - 227.43kb[0m
+[90mGET /suite/gps_test_suite?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m62ms - 6.93kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m14ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m27ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m27ms[0m
+[90mGET /suite/gps_test_suite?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=.5 [32m200 [90m50ms - 6.93kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=1 [32m200 [90m57ms - 6.93kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m25ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m30ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /suite/gps_test_suite?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=1 [36m304 [90m42ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m18ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m30ms[0m
+[90mGET /stylesheets/txl.css [32m200 [90m165ms - 227.43kb[0m
+[90mGET / [32m200 [90m30ms - 1.87kb[0m
+[90mGET /stylesheets/txl.css [32m200 [90m132ms - 227.43kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m5ms - 440b[0m
+[90mGET /suite/gps_test_suite [32m200 [90m26ms - 7kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m111ms[0m
+[90mGET /javascripts/jquery.flot.time.js [32m200 [90m110ms - 13.07kb[0m
+[90mGET /javascripts/regression.js [32m200 [90m110ms - 3.01kb[0m
+[90mGET /javascripts/jquery.min.js [32m200 [90m158ms - 82.27kb[0m
+[90mGET /javascripts/jquery.flot.js [32m200 [90m157ms - 120.09kb[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-21-12? [32m200 [90m83ms - 17.28kb[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-15-34? [32m200 [90m75ms - 18.27kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /suite/gps_test_suite/ [32m200 [90m30ms - 7kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-51-08? [32m200 [90m112ms - 16.61kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m15ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m14ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m20ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m28ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-21-12? [36m304 [90m50ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m21ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m24ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m25ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-15-21-08? [32m200 [90m70ms - 17.93kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m60ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-15-41-08? [32m200 [90m78ms - 18.59kb[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-16-11-14?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=1 [32m200 [90m160ms - 19.71kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+http://localhost:3000/results/gps_test_suite/login_test/2015-07-31-16-11-14/results.json
+[90mGET /apiproxy?asset=/results/gps_test_suite/login_test/2015-07-31-16-11-14/results.json [32m200 [90m35ms - 26.9kb[0m
+[90mGET / [36m304 [90m35ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m63ms - 7.62kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-17-21-09? [32m200 [90m90ms - 15.68kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /csv.php?test=150731_0X_T&requests=1 [33m404 [90m6ms - 1.11kb[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-17-21-09? [32m200 [90m65ms - 15.71kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/login_test/10.0.1.194/csv.php?test=150731_0X_T&requests=1 [33m404 [90m6ms - 1.11kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-17-21-09? [32m200 [90m92ms - 15.72kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m26ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-17-21-09? [32m200 [90m45ms - 15.72kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/ [32m200 [90m29ms - 7.62kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-17-31-11? [32m200 [90m86ms - 17.4kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m21ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET / [32m200 [90m26ms - 1.87kb[0m
+[90mGET /stylesheets/txl.css [32m200 [90m164ms - 227.43kb[0m
+[90mGET /stylesheets/style.css [32m200 [90m156ms - 440b[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m6ms - 1.11kb[0m
+[90mGET /apple-touch-icon.png [33m404 [90m4ms - 1.11kb[0m
+[90mGET / [32m200 [90m12ms - 1.87kb[0m
+[90mGET / [32m200 [90m15ms - 1.87kb[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m6ms - 1.11kb[0m
+[90mGET /apple-touch-icon.png [33m404 [90m4ms - 1.11kb[0m
+[90mGET /suite/gps_test_suite [32m200 [90m31ms - 7.62kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery.flot.time.js [32m200 [90m78ms - 13.07kb[0m
+[90mGET /javascripts/regression.js [32m200 [90m77ms - 3.01kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m80ms[0m
+[90mGET /javascripts/jquery.min.js [32m200 [90m151ms - 82.27kb[0m
+[90mGET /javascripts/jquery.flot.js [32m200 [90m152ms - 120.09kb[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-15-01-08? [32m200 [90m93ms - 15.72kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /suite/gps_test_suite/ [31m500 [90m146ms - 1.17kb[0m
+[90mGET /suite/gps_test_suite/ [32m200 [90m27ms - 7.62kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/?chartType=loadTime&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m65ms - 7.87kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m76ms - 7.88kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/?chartType=fullyLoaded&dataRange=0%2Cnull&dateCutoff=30 [36m304 [90m42ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite/?chartType=loadTime&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m76ms - 7.54kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m60ms - 7.91kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /suite/gps_test_suite/?chartType=fullyLoaded&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m91ms - 7.88kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[90mGET /suite/gps_test_suite/?chartType=fullyLoaded&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m42ms - 7.85kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m14ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/gps_test_suite/?chartType=TTFB&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m88ms - 7.79kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite/?chartType=loadTime&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m25ms - 7.7kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite/?chartType=visualComplete&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m61ms - 7.82kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2Cnull&dateCutoff=30 [32m200 [90m26ms - 7.91kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m39ms[0m
+[90mGET / [36m304 [90m21ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m67ms - 7.87kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET / [32m200 [90m33ms - 1.87kb[0m
+[90mGET / [32m200 [90m20ms - 1.87kb[0m
+[90mGET / [32m200 [90m50ms - 1.87kb[0m
+[90mGET / [32m200 [90m21ms - 1.87kb[0m
+[90mGET / [36m304 [90m17ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m171ms - 11.88kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-12-29-28? [32m200 [90m105ms - 27.77kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-05-59-39? [32m200 [90m37ms - 20.38kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-19-39-21? [32m200 [90m46ms - 20.7kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-00-29-26? [32m200 [90m40ms - 20.4kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-04-09-31? [32m200 [90m38ms - 22.06kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m4ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-05-59-39? [36m304 [90m73ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-05-50-07? [32m200 [90m46ms - 33.37kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m29ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-05-40-32? [32m200 [90m43ms - 33.07kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-05-11-56? [32m200 [90m50ms - 32.07kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-04-50-06? [32m200 [90m51ms - 32.75kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m12ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-04-29-39? [32m200 [90m39ms - 25.7kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-04-09-31? [36m304 [90m37ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-04-29-39? [36m304 [90m57ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-04-09-31? [36m304 [90m23ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET /suite/gps_test_suite/ [32m200 [90m29ms - 11.88kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /suite/gps_test_suite? [32m200 [90m31ms - 11.88kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-20-29-30? [32m200 [90m43ms - 20.7kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET / [36m304 [90m27ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m8ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m28ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-07-31-14-21-12? [32m200 [90m55ms - 22.03kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m9ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-14-29-59? [32m200 [90m35ms - 29.96kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m19ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-14-29-59? [36m304 [90m27ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET / [36m304 [90m27ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m25ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m5ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-14-29-59? [36m304 [90m37ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m21ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m21ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m25ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m12ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-14-22-51? [32m200 [90m37ms - 52.41kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-13-33-35? [32m200 [90m92ms - 50.73kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /suite/gps_test_suite/login_test/2015-08-01-12-53-31? [32m200 [90m58ms - 148.35kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m3ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /suite/gps_test_suite/ [36m304 [90m20ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m155ms - 11.99kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m6ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m42ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m10ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /suite/gps_test_suite/?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m42ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m18ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /suite/gps_test_suite [32m200 [90m50ms - 11.9kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m13ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m25ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m23ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m8ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m40ms[0m
+[90mGET / [36m304 [90m16ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m25ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m17ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m17ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m9ms[0m
+[90mGET /suite/gps_test_suite [36m304 [90m23ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m7ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET / [32m200 [90m41ms - 1.87kb[0m
+[90mGET /suite/gps_test_suite [32m200 [90m48ms - 11.88kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m5ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m10ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET /suite/gps_test_suite?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [32m200 [90m59ms - 11.99kb[0m
+[90mGET /stylesheets/txl.css [36m304 [90m22ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m9ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m11ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m10ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+[90mGET /suite/gps_test_suite?chartType=SpeedIndex&dataRange=0%2C15000&dateCutoff=30 [36m304 [90m25ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m6ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m7ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m14ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m

@@ -1,0 +1,72 @@
+{
+
+  "wptApiKey": "A.0ea8822c5fdb7fb99a7e6f075232d827",
+  "testSuites":[
+    {
+      "suiteDisplayName": "GoogleVsBingVsDDG",
+      "suiteId": "google_bing_dgg",
+      "desc": "This suite runs on a Chrome in Dulles, VA",
+      "runEvery": 60,
+      "testHost": "http://google.com/",
+      "location": "Dulles:Chrome",
+      "chartConfig" : [
+        {
+          "type" : "SpeedIndex",
+          "dataRange": [0, 8000],
+          "dateCutoff": 30
+        }
+      ],
+
+      "testPages": [
+        {
+          "testDisplayName": "Google Homepage",
+          "testId": "google_homepage",
+          "path": "search?q=High+Performance+Browser+Networking"
+        },
+        {
+          "testDisplayName": "Bing Homepage",
+          "testId": "bing_homepage",
+          "path": "search?q=High+Performance+Browser+Networking",
+          "testHost": "http://bing.com/"
+        },
+        {
+          "testDisplayName": "Duck Duck Go Homepage",
+          "testId": "ddg_homepage",
+          "path": "?q=High+Performance+Browser+Networking",
+          "testHost": "http://duckduckgo.com/"
+        }
+      ]
+    },
+    {
+      "suiteDisplayName": "TopRedditvsTopHN",
+      "suiteId": "reddit_hn_top",
+      "desc": "This suite runs on Chrome in Dulles, VA",
+      "runEvery": 60,
+      "testHost": "http://reddit.com/",
+      "location": "Dulles:Chrome",
+      "chartConfig" : [
+        {
+          "type" : "SpeedIndex",
+          "dataRange": [0, 8000],
+          "dateCutoff": 30
+        }
+      ],
+
+      "testPages": [
+        {
+          "testDisplayName": "Reddit Top Story",
+          "testId": "reddit_top",
+          "parentPath": "",
+          "parentHrefSelector": ".sitetable .comments"
+        },
+        {
+          "testDisplayName": "Hacker News Top Story",
+          "testId": "hn_top",
+          "testHost": "http://news.ycombinator.com/",
+          "parentPath": "",
+          "parentHrefSelector": ".subtext a:last-of-type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+
+> webpagetest-charts@0.0.1 start /home/john.handley/webpagetest-charts-ui
+> node ./bin/www
+
+URL REQ: http://localhost:3000/tests/safety_test_suite?
+[90mGET /suite/safety_test_suite? [36m304 [90m235ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m23ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m20ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m18ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m14ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [32m200 [90m237ms - 440b[0m
+[90mGET / [36m304 [90m87ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET / [36m304 [90m66ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET / [36m304 [90m215ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m44ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m266ms[0m
+[90mGET / [36m304 [90m170ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m76ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m75ms[0m
+URL REQ: http://localhost:3000/tests/safety_test_suite?
+[90mGET /suite/safety_test_suite [36m304 [90m653ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m122ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m170ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m54ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m53ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m13ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m196ms[0m
+[90mGET / [36m304 [90m61ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m7ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET / [36m304 [90m74ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m19ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m18ms[0m
+[90mGET / [36m304 [90m85ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+URL REQ: http://localhost:3000/tests/gps_test_suite?
+[90mGET /suite/gps_test_suite [32m200 [90m779ms - 21.51kb[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m86ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m80ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m53ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m58ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m132ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m118ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m66ms[0m
+[90mGET / [36m304 [90m261ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m15ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+URL REQ: http://localhost:3000/tests/safety_test_suite?
+[90mGET /suite/safety_test_suite [36m304 [90m487ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m45ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m35ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m34ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m35ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m52ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m60ms[0m
+URL REQ: http://localhost:3000/tests/safety_test_suite?
+[90mGET /suite/safety_test_suite [36m304 [90m172ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m7ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m8ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m8ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m16ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m19ms[0m
+URL REQ: http://localhost:3000/tests/safety_test_suite?
+[90mGET /suite/safety_test_suite [36m304 [90m1747ms[0m
+[90mGET /javascripts/jquery.min.js [36m304 [90m86ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m69ms[0m
+[90mGET /javascripts/jquery.flot.time.js [36m304 [90m43ms[0m
+[90mGET /javascripts/regression.js [36m304 [90m33ms[0m
+[90mGET /stylesheets/txl.css [36m304 [90m153ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m231ms[0m
+[90mGET /javascripts/jquery.flot.js [36m304 [90m17ms[0m

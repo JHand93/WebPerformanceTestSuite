@@ -1,0 +1,76 @@
+{
+  "WebHost": "10.0.0.35",
+  "wptApiKey": "NOT NEEDED FOR PRIVATE INSTANCE",
+  "testSuites":[
+    {
+      "suiteDisplayName": "GPS",
+      "suiteId": "gps_test_suite",
+      "desc": "This suite runs on the office testing enviornment",
+      "runEvery": 30,
+      "testHost": "/home/john.handley/webpagetest-charts-api/scripts/",
+      "location": "Test:Chrome",
+      "testPages": [
+        {
+          "testDisplayName": "Login Test",
+          "testId": "login_test",
+          "path": "gps/loginTest.json"
+        }
+      ]
+    },
+    {
+      "suiteDisplayName": "Safety",
+      "suiteId": "safety_test_suite",
+      "desc": "This suite runs on the office testing enviornment",
+      "runEvery": 60,
+      "testHost": "/home/john.handley/webpagetest-charts-api/scripts/",
+      "location": "Test:Chrome",
+      "testPages": [
+        {
+          "testDisplayName": "Login Page Test",
+          "testId": "login_page_test",
+          "path": "safety/loginPage.json"
+        },
+        {
+          "testDisplayName": "Dashboard Test",
+          "testId": "dash_test",
+          "path": "safety/loginAuthentication.json"
+        },
+        {
+          "testDisplayName": "Meeting History Test",
+          "testId": "meeting_history_test",
+          "path": "safety/meetingHistory.json"
+        },
+        {
+          "testDisplayName": "Inspection History Test",
+          "testId": "inspection_history_test",
+          "path": "safety/inspectionHistory.json"
+        },
+        {
+          "testDisplayName": "Observations History Test",
+          "testId": "observations_history_test",
+          "path": "safety/observationHistory.json"
+        },
+        {
+          "testDisplayName": "Near Miss Test",
+          "testId": "nearmiss_history_test",
+          "path": "safety/nearMissHistory.json"
+        },
+        {
+          "testDisplayName": "Incident Inbox Test",
+          "testId": "incident_inbox_test",
+          "path": "safety/incidentInbox.json"
+        },
+        {
+          "testDisplayName": "Incident Create Test",
+          "testId": "incident_create_test",
+          "path": "safety/incidentCreate.json"
+        },
+        {
+          "testDisplayName": "Incident Completed Test",
+          "testId": "incident_completed_test",
+          "path": "safety/incidentCompletedCase.json"
+        }
+      ]
+    }
+  ]
+}

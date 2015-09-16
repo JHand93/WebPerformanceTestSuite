@@ -1,0 +1,34 @@
+{
+  "name": "wptGoogleUpdater",
+  "version": "1.0.0",
+  "description": "A plugin for the WebSpeedTests API to periodically update specified google spreadsheets",
+  "author": "John Handley <John.Handley@hcss.com>",
+  "scripts": {
+    "start": "node ./bin/updater.js",
+    "predeploy": "Deploying...",
+    "postdeploy": "Successfully Deployed"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/HandOfNill/wptGoogleUpdater"
+},
+  "bugs": {
+  "url": "https://github.com/HandOfNill/wptGoogleUpdater/issues"
+},
+  "keywords": [
+  "WebSpeedTest",
+  "GoogleSpreadSheets",
+  "Scheduled"
+],
+  "dependencies": {
+    "async": "0.9.0",
+    "compression": "1.4.3",
+    "debug": "2.1.1",
+    "jsonfile": "1.1.1",
+    "node-rest-client": "1.5.1",
+    "request": "~2.34.0",
+    "google-spreadsheet": "1.x.x"
+  },
+  "private": true,
+  "license": "MIT"
+}

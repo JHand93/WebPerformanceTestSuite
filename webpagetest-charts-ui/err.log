@@ -1,0 +1,60 @@
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at Request._callback (/home/john.handley/webpagetest-charts-ui/routes/home.js:13:17)
+    at self.callback (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:121:22)
+    at Request.emit (events.js:95:17)
+    at ClientRequest.self.clientErrorHandler (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:230:10)
+    at ClientRequest.emit (events.js:95:17)
+    at Socket.socketErrorListener (http.js:1552:9)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:442:13)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at Request._callback (/home/john.handley/webpagetest-charts-ui/routes/home.js:13:17)
+    at self.callback (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:121:22)
+    at Request.emit (events.js:95:17)
+    at ClientRequest.self.clientErrorHandler (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:230:10)
+    at ClientRequest.emit (events.js:95:17)
+    at Socket.socketErrorListener (http.js:1552:9)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:442:13)
+
+SyntaxError: Unexpected token u
+    at Object.parse (native)
+    at Request._callback (/home/john.handley/webpagetest-charts-ui/routes/home.js:13:17)
+    at self.callback (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:121:22)
+    at Request.emit (events.js:95:17)
+    at ClientRequest.self.clientErrorHandler (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:230:10)
+    at ClientRequest.emit (events.js:95:17)
+    at Socket.socketErrorListener (http.js:1552:9)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:442:13)
+
+TypeError: Cannot read property 'suiteDisplayName' of undefined
+    at /home/john.handley/webpagetest-charts-ui/routes/suite.js:32:44
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:251:17
+    at done (/home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:132:19)
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:32:16
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:248:21
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:572:34
+    at Request._callback (/home/john.handley/webpagetest-charts-ui/routes/suite.js:23:9)
+    at Request.self.callback (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:121:22)
+    at Request.emit (events.js:98:17)
+    at Request.<anonymous> (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:978:14)
+
+TypeError: Cannot read property 'suiteDisplayName' of undefined
+    at /home/john.handley/webpagetest-charts-ui/routes/suite.js:32:44
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:251:17
+    at done (/home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:132:19)
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:32:16
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:248:21
+    at /home/john.handley/webpagetest-charts-ui/node_modules/async/lib/async.js:572:34
+    at Request._callback (/home/john.handley/webpagetest-charts-ui/routes/suite.js:23:9)
+    at Request.self.callback (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:121:22)
+    at Request.emit (events.js:98:17)
+    at Request.<anonymous> (/home/john.handley/webpagetest-charts-ui/node_modules/request/request.js:978:14)

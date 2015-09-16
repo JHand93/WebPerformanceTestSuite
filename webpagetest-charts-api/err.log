@@ -1,0 +1,33 @@
+connections property is deprecated. Use getConnections() method
+[ { [Error: connect ETIMEDOUT] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', syscall: 'connect' },
+  { url: 'http://hcssgps.com/Security/Login.aspx?ReturnUrl=%2f',
+    options: 
+     { pollResults: 5000,
+       timeout: 600000,
+       video: true,
+       location: 'Test:Chrome',
+       firstViewOnly: false } } ]
+[ { [Error: connect ETIMEDOUT] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', syscall: 'connect' },
+  { url: 'http://vectrtest.com/Security/Login.aspx?ReturnUrl=%2f',
+    options: 
+     { pollResults: 5000,
+       timeout: 600000,
+       video: true,
+       location: 'Test:Chrome',
+       firstViewOnly: false } } ]
+[ { [Error: connect ETIMEDOUT] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', syscall: 'connect' },
+  { url: 'http://staging-safety.hcssapps.com/',
+    options: 
+     { pollResults: 5000,
+       timeout: 600000,
+       video: true,
+       location: 'Test:Chrome',
+       firstViewOnly: false } } ]
+[ { [Error: connect ETIMEDOUT] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', syscall: 'connect' },
+  { url: 'http://test-safety.hcssapps.com/',
+    options: 
+     { pollResults: 5000,
+       timeout: 600000,
+       video: true,
+       location: 'Test:Chrome',
+       firstViewOnly: false } } ]
